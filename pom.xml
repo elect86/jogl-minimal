@@ -76,7 +76,8 @@
 		<license.licenseName>bsd_2</license.licenseName>
 		<license.copyrightOwners>Tobias Pietzsch</license.copyrightOwners>
 
-		<bigdataviewer-core.version>10.0.2</bigdataviewer-core.version>
+		<enforcer.skip>true</enforcer.skip>
+		<bigdataviewer-core.version>10.0.3-SNAPSHOT</bigdataviewer-core.version>
 		<bigdataviewer-vistools.version>1.0.0-beta-23</bigdataviewer-vistools.version>
 		<ST4.version>4.0.8</ST4.version>
 
